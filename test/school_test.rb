@@ -1,6 +1,7 @@
-require 'minitest/autorun'
-require 'minitest/pride'
-require './lib/school'
+require "minitest/autorun"
+require "minitest/pride"
+require "./lib/school"
+require "pry"
 
 class SchoolTest < Minitest::Test
   #Iteration 1 Tests:
